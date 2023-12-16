@@ -1,5 +1,3 @@
-## Stats
-
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=therealFoxster&show_icons=true&theme=default#gh-light-mode-only" alt="github-stats" />
 </a>
@@ -17,6 +15,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&langs_count=9&layout=compact&theme=github_dark#gh-dark-mode-only" alt="top-langs" />
 </a>
+
+<!--
 
 ## Pinned repositories
 
@@ -67,3 +67,5 @@
 <a href="https://github.com/therealFoxster/portfolio/#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealFoxster&repo=portfolio&theme=github_dark#gh-dark-mode-only" alt="pinned-repo" />
 </a>
+
+-->
