@@ -1,16 +1,69 @@
-### Hi there 👋
+## Stats
 
-<!--
-**therealFoxster/therealFoxster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=therealFoxster&show_icons=true&theme=default#gh-light-mode-only" alt="github-stats" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=therealFoxster&show_icons=true&theme=github_dark#gh-dark-mode-only" alt="github-stats" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&langs_count=9&layout=compact&theme=default#gh-light-mode-only" alt="top-langs" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&langs_count=9&layout=compact&theme=github_dark#gh-dark-mode-only" alt="top-langs" />
+</a>
+
+## Pinned repositories
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealFoxster&repo=DontEatMyContent&theme=default#gh-light-mode-only" alt="pinned-repo" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealFoxster&repo=DontEatMyContent&theme=github_dark#gh-dark-mode-only" alt="pinned-repo" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qnblackcat&repo=uYouPlus&theme=default#gh-light-mode-only" alt="pinned-repo" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=qnblackcat&repo=uYouPlus&theme=github_dark#gh-dark-mode-only" alt="pinned-repo" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealFoxster&repo=altsource-viewer&theme=default#gh-light-mode-only" alt="pinned-repo" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealFoxster&repo=altsource-viewer&theme=github_dark#gh-dark-mode-only" alt="pinned-repo" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealFoxster&repo=altsource-v1&theme=default#gh-light-mode-only" alt="pinned-repo" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealFoxster&repo=altsource-v1&theme=github_dark#gh-dark-mode-only" alt="pinned-repo" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealFoxster&repo=Pairs&theme=default#gh-light-mode-only" alt="pinned-repo" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealFoxster&repo=Pairs&theme=github_dark#gh-dark-mode-only" alt="pinned-repo" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealFoxster&repo=portfolio&theme=default#gh-light-mode-only" alt="pinned-repo" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealFoxster&repo=portfolio&theme=github_dark#gh-dark-mode-only" alt="pinned-repo" />
+</a>
