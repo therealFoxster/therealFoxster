@@ -1,9 +1,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=210 src="https://github-readme-stats.vercel.app/api?username=therealFoxster&show_icons=true&show=prs_merged&theme=default#gh-light-mode-only" alt="github-stats" />
+  <img height=210 src="https://github-readme-stats.vercel.app/api?username=therealFoxster&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=default#gh-light-mode-only" alt="github-stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=210 src="https://github-readme-stats.vercel.app/api?username=therealFoxster&show_icons=true&show=prs_merged&theme=github_dark#gh-dark-mode-only" alt="github-stats" />
+  <img height=210 src="https://github-readme-stats.vercel.app/api?username=therealFoxster&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=github_dark#gh-dark-mode-only" alt="github-stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
