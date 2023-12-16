@@ -1,17 +1,17 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealFoxster&show_icons=true&theme=default#gh-light-mode-only" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=therealFoxster&show_icons=true&show=prs_merged&theme=default#gh-light-mode-only" alt="github-stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealFoxster&show_icons=true&theme=github_dark#gh-dark-mode-only" alt="github-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=therealFoxster&show_icons=true&show=prs_merged&theme=github_dark#gh-dark-mode-only" alt="github-stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&langs_count=8&layout=compact&theme=default#gh-light-mode-only" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&langs_count=10&layout=compact&theme=default#gh-light-mode-only" alt="top-langs" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&langs_count=8&layout=compact&theme=github_dark#gh-dark-mode-only" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&langs_count=10&layout=compact&theme=github_dark#gh-dark-mode-only" alt="top-langs" />
 </a>
 
 <!--
