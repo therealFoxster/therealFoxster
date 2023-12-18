@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=210 src="https://github-readme-stats.vercel.app/api?username=therealFoxster&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=github_dark&card_width=440#gh-dark-mode-only" alt="github-stats" />
+  <img height=210 src="https://github-readme-stats.vercel.app/api?username=therealFoxster&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=github_dark_dimmed&card_width=440#gh-dark-mode-only" alt="github-stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&langs_count=10&layout=compact&theme=github_dark&card_width=430#gh-dark-mode-only" alt="top-langs" />
+  <img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&langs_count=10&layout=compact&theme=github_dark_dimmed&card_width=430#gh-dark-mode-only" alt="top-langs" />
 </a>
 
 <!--
