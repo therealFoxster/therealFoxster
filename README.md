@@ -7,11 +7,11 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&card_width=430&langs_count=10&layout=compact&theme=default#gh-light-mode-only" alt="top-langs" />
+  <img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&size_weight=0.5&count_weight=0.5&card_width=430&langs_count=10&layout=compact&theme=default#gh-light-mode-only" alt="top-langs" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&card_width=430&langs_count=10&layout=compact&theme=github_dark&border_color=30363d#gh-dark-mode-only" alt="top-langs" />
+  <img height=210 src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealFoxster&size_weight=0.5&count_weight=0.5&card_width=430&langs_count=10&layout=compact&theme=github_dark&border_color=30363d#gh-dark-mode-only" alt="top-langs" />
 </a>
 
 <!--
